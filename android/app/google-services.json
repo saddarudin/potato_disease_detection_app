@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525169750657",
+    "project_id": "semester-project-a1285",
+    "storage_bucket": "semester-project-a1285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525169750657:android:cbbc2247364615ce379380",
+        "android_client_info": {
+          "package_name": "com.example.potato_disease_detection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDpi9IZgQHB2yljcV25U28ksJK-RCu8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
